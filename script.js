@@ -59,11 +59,11 @@ const messages = [
     "Em đang bùn hảaa?",
     "Đi mòoo...",
     "Just think about it!",
-    "Em say no là Kiệt Huỳnh bùn lắm đóaaa...",
-    "Kiệt Huỳnh bùn lắm đó....",
-    "Kiệt Huỳnh sẽ bùn bùn bùn bùn lắm lun",
+    "Em say no là anh bùn lắm đóaaa...",
+    "anh bùn lắm đó....",
+    "anh sẽ bùn bùn bùn bùn lắm lun",
     "Đượt ùi dị thuii huhu buồn quá:(((",
-    "Eo Kiệt Huỳnh trêu í, em đồng ý nhennnn <3 <3"
+    "Eo anh trêu í, em đồng ý nhennnn <3 <3"
 ];
 
 let messageIndex = 0;
